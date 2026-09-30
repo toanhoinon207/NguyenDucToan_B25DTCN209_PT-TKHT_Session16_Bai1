@@ -13,6 +13,13 @@
 
 **Cách tách bảng:** Tách số điện thoại là bảng riêng
 
+**Bảng `HOI_VIEN`:**
+
+| MaHV | HoTen | NgayDangKy |
+|---|---|---|
+| HV01 | Nguyễn Văn A | - |
+| HV02 | Trần Thị B | - |
+
 **Bảng `SDT_HOI_VIEN`:**
 
 | MaHV (FK) | SoDienThoai |
